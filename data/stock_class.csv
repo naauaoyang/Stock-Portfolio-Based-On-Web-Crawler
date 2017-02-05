@@ -1,0 +1,10 @@
+ind_id,ind_cl_id,ind_name
+1,1,Technology
+2,0,Basic Materials
+3,1,Communication
+4,0,Nonperiodic Consumption
+5,1,Energy
+6,1,Industry
+7,1,Finance
+8,1,Periodic Consumption
+9,0,Utilities
